@@ -3,7 +3,7 @@
 
 
 ## Table of Contents
-* Regression Projecr
+* Regression Project
 * Python via jupyter with pandas
 
 
